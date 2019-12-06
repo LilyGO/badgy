@@ -7,9 +7,11 @@
 
 ### 第二步 安装所需arduino库
 
-https://github.com/ZinggJM/GxEPD
-https://github.com/bbx10/Hash_tng
+[GXEPD] (https://github.com/ZinggJM/GxEPD) .
 
+[HASH] (https://github.com/bbx10/Hash_tng) .
+ 
+[here] (https://github.com/Links2004/arduinoWebSockets). 
 ### 第三步 烧写程序
 
 ### 第四步 读取墨水屏的IP地址
