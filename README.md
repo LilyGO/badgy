@@ -7,6 +7,9 @@
 
 ### 第二步 安装所需arduino库
 
+https://github.com/ZinggJM/GxEPD
+https://github.com/bbx10/Hash_tng
+
 ### 第三步 烧写程序
 
 ### 第四步 读取墨水屏的IP地址
